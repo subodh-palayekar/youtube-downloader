@@ -6,4 +6,22 @@
 
 body {
   background-color: rgb(2, 11, 26);
+  max-width: 1300px;
+  margin:auto;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+.text-gradient{
+background: #121FCF;
+background:linear-gradient(90deg,#4ca5ff,#b573f8);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+
+}
+
+.bg-gradient{
+  background: linear-gradient(136deg, #13072e, #3f2182);
 }
